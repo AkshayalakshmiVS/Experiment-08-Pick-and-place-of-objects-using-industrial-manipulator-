@@ -1,4 +1,9 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator
+###  DATE:22-04-2024
+###  NAME: AKSHAYA LAKSHMI VS
+###  ROLL NO : 212222040005
+###  DEPARTMENT: CSE
+
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
